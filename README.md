@@ -1,4 +1,4 @@
-Hi 👋 My name is Batuhan Demir
+Hi 👋 My name is Batu
 ==============================
 
 * 🚀  I'm currently working on [Hevy](http://hevyapp.com)

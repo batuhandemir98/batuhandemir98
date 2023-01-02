@@ -6,7 +6,6 @@ Developer. Powerlifter. Musician. Specialty Coffee Enthusiast.
 
 * 🚀  I'm currently working on [Hevy](http://hevyapp.com)
 * 🧠  I'm learning everything related to Javascript
-* ⚡  I am a specialty coffee enthusiast and I love playing bass on jazz-fusion tracks
 
 ### Skills
 

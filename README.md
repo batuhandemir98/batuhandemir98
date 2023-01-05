@@ -7,7 +7,7 @@ Developer. Powerlifter. Musician.
 Recent computer science graduate and currently Full Stack Developer at Hevy, helping athletes grow by using some coding and problem-solving skills.
 
 * 🌍  I'm based in Aydin, Turkey
-* 🚀  I'm currently working on [Hevy](http://hevyapp.com)
+* 🚀  I'm currently working for [Hevy](http://hevyapp.com)
 * 🧠  I'm learning everything Javascript, more specifically NextJS at the moment
 * ⚡   Fun Fact: I'm going to compete in IPF Turkey Nationals Powerlifting Competition this year on Valentine's Day ❤️‍🔥
 * ☕️   I'm also a specialty coffee enthusiast

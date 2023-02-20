@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Batu
 ============================================================================================================================
 
-Developer. Powerlifter. Musician.
+Developer. Lifter. Musician.
 --------------------------------------------------------------
 
 Recent computer science graduate and currently Full Stack Developer at Hevy, helping athletes grow by using some coding and problem-solving skills.
@@ -9,7 +9,6 @@ Recent computer science graduate and currently Full Stack Developer at Hevy, hel
 * 🌍  I'm based in Aydin, Turkey
 * 🚀  I'm currently working for [Hevy](http://hevyapp.com)
 * 🧠  I'm learning everything Javascript, more specifically NextJS at the moment
-* ⚡   Fun Fact: I'm going to compete in IPF Turkey Nationals Powerlifting Competition this year on Valentine's Day ❤️‍🔥
 * ☕️   I'm also a specialty coffee enthusiast
 
 ### Skills

@@ -1,15 +1,15 @@
 Hi 👋 My name is Batu
 ============================================================================================================================
 
-Developer. Lifter. Musician.
+Developer. Wantrepreneur. Lifter.
 --------------------------------------------------------------
 
 Recent computer science graduate and currently Full Stack Developer at Hevy, helping athletes grow by using some coding and problem-solving skills.
 
-* 🌍  I'm based in Aydin, Turkey
+* 🌍  I'm currently based in Barcelona 🇪🇸 but I'm originally from Turkey 🇹🇷
 * 🚀  I'm currently working for [Hevy](http://hevyapp.com)
-* 🧠  I'm learning everything Javascript, more specifically NextJS at the moment
-* ☕️   I'm also a specialty coffee enthusiast
+* 🧠  I'm learning everything Javascript and React, but I'm also interested in building products as a whole.
+* ☕️  I'm also a specialty coffee enthusiast
 
 ### Skills
 

@@ -1,7 +1,7 @@
 # Hi 👋, I'm Batu  
-### Developer · Builder · Lifter  
+### Developer · Builder  
 
 🚀 Full Stack Developer at [Hevy](http://hevyapp.com)  
 🌍 Based in Barcelona 🇪🇸 (from Turkey 🇹🇷)  
-🧠 Into JavaScript, React Native & building products  
+🧠 Into TypeScript, React Native & building products  
 ☕ Specialty coffee enthusiast  
